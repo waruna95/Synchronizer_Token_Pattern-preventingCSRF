@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <title>SSD</title>
+        <title>Synchronizer Token Pattern</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
         </script>
