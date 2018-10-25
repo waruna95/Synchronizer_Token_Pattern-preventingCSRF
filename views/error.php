@@ -5,7 +5,7 @@ W.M.W.G.Wijesundara
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>SSD</title>
+		<title>Synchronizer Token Pattern</title>
 		<link rel="stylesheet" href="./css/style2.css">
 	</head>
 	<body>
