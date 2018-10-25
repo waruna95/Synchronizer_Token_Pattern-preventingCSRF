@@ -13,7 +13,7 @@ if(isset($_SESSION['USERNAME'])){
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Synchronizer Pattern</title>
+		<title>Synchronizer Token Pattern</title>
 		<link rel="stylesheet" href="./css/style.css">
 	</head>
 	<body>
